@@ -6,11 +6,12 @@ Our website https://polinetwork.org
 
 Do you want to contribute to PoliNetwork? [Contact us](https://polinetwork.org/learnmore/contacts/)!
 
-### Open issues:
-[Link](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3APoliNetworkOrg+archived%3Afalse+)
 
-### Open pr:
-[Link](https://github.com/issues?q=is%3Aopen+is%3Apr+org%3APoliNetworkOrg+archived%3Afalse+)
+| Open issues                                                                             | Open PRs                                                                             |
+|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| [Link](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3APoliNetworkOrg+archived%3Afalse) | [Link](https://github.com/issues?q=is%3Aopen+is%3Apr+org%3APoliNetworkOrg+archived%3Afalse) |
+
+
 
 _________________
 
