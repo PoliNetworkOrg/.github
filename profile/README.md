@@ -10,7 +10,7 @@ Do you want to contribute to PoliNetwork? [Contact us](https://polinetwork.org/l
 | Assign | Open issues                                                                             | Open PRs                                                                             |
 | -- |-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | All | [Link](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3APoliNetworkOrg+archived%3Afalse) | [Link](https://github.com/issues?q=is%3Aopen+is%3Apr+org%3APoliNetworkOrg+archived%3Afalse) |
-| None | [Link](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3APoliNetworkOrg+archived%3Afalse+no%3Aassignee) | |
+| None | [Link](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3APoliNetworkOrg+archived%3Afalse+no%3Aassignee) | [Link](https://github.com/pulls?q=is%3Aopen+is%3Apr+org%3APoliNetworkOrg+archived%3Afalse+no%3Aassignee) |
 | Me | [Link](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3APoliNetworkOrg+archived%3Afalse+assignee%3A%40me) | [Link](https://github.com/pulls?q=is%3Aopen+is%3Apr+org%3APoliNetworkOrg+archived%3Afalse+assignee%3A%40me) |
 
 
